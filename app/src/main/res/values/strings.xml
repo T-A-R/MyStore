@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyStore</string>
+
+    <string name="menu_01">Menu 1</string>
+    <string name="menu_02">Menu 2</string>
+    <string name="menu_03">Menu 3</string>
+    <string name="menu_04">Menu 4</string>
+    <string name="menu_05">Menu 5</string>
+</resources>
